@@ -15,3 +15,29 @@ It's not that we humans only take debts to manage our necessities. A country may
 🔹 Tech Stack: SQL (MySQL)
 
 🔹 Dataset: Debt Statistics from public records.
+
+## 📂 Dataset Description
+The dataset contains transaction records of a retail store, including:
+
+
+  | ColumnName | Description |
+|:----------|:-----------:|
+| Country_name|  Name of the Country     | 
+| Country_code      |  Code of the Country       | 
+| Indicator_name	     |  Debt indicator code    | 
+| Indicator_code    | Debt indicator code      | 
+| Debt    | Debt Value     | 
+
+##📌 Conclusion
+📌 China is the country with the highest debt.
+
+📌 Total amount of Debt Owned by countries.
+
+📌 Top 5 Countries with maximum debt are - China, Brazil, Russian federation, Turkey, South Asia
+
+🔗 Connect & Contribute
+📌 LinkedIn : www.linkedin.com/in/devsarthak24
+
+📌 Gmail : sarthakdv8@gmail.com
+
+Want to contribute? Feel free to fork the repository and explore new insights! 🚀
